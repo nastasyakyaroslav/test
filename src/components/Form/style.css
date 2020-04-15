@@ -1,0 +1,50 @@
+.fromWrapper {
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    background: #FFFFFF;
+    box-shadow: 0px 4px 20px rgba(0, 0, 0, 0.12);
+    border-radius: 8px 8px 0px 0px;
+    padding: 36px 48px;
+    top: 0;
+    right: 147px;
+    width: 417px;
+}
+
+.title {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.sendedForm {
+    padding: 74px 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.sendedFormStatus {
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+    color: #000000;
+    margin-top: 40px;
+    margin-bottom: 26px;
+}
+
+.statusInfo {
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    text-align: center;
+    color: #212121;
+    max-width: 320px;
+    margin-bottom: 60px;
+}

@@ -1,0 +1,12 @@
+.header {
+    padding: 25px 146px 39px 146px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.headerLinks {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
